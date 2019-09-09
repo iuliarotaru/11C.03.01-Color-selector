@@ -1,0 +1,7 @@
+.selectedColor {
+  background-color: #00f973;
+  height: 200px;
+  width: 150px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
